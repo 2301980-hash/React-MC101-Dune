@@ -12,6 +12,13 @@ import Football from './Events'
 
 createRoot(document.getElementById('root')).render(
   // <MyForm />
-  
+  // <App />
+  // <Car />
+  // <Fruit />
+  // <Car />
+  // <Car />
+  // <Car />
+  // <Car />
+  // <Parent />
   <Football/>
 )
